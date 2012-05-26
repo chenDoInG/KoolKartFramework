@@ -1,0 +1,20 @@
+Disclaimer:  This Framework is designed by Nishant Verma. Read more about me on http://www.nishantverma.com
+The primary purpose of this framework is to get you started and see how to lay out a frame work structure.
+
+You can reach me or mail me : nishuverma@gmail.com for any queries regarding this framework and it's implementation.
+
+Typical framework Stack looks like: Eclipse + TestNG + WebDriver + Sikuli
+
+WebDriver : WebDriver is a clean, fast framework for automated testing of webapps. 
+
+Sikuli: Is a open source MIT project which is based on image recognition. 
+You can read more about it here: http://sikuli.org/
+
+This framework exploits both the capability of Selenium as well as sikuli-script.jar which you can 
+be obtained by installing the Sikuli first and then copying the .jar from the installed folder path.
+Mail me if you face any issues.
+
+You can use Sikuli for all UI level validation.
+
+Thanks,
+Nishant Verma

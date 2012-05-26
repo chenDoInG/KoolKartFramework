@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13119" started-at="2012-05-26T21:46:12Z" finished-at="2012-05-26T21:46:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13119" started-at="2012-05-26T21:46:12Z" finished-at="2012-05-26T21:46:25Z">
+      <class name="com.koolkart.pages.BookPage">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.koolkart.pages.BookPage@1420c906]" name="beforeTest" is-config="true" duration-ms="5611" started-at="2012-05-26T21:46:12Z" finished-at="2012-05-26T21:46:18Z">
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verify_Book_Search_Test()[pri:0, instance:com.koolkart.pages.BookPage@1420c906]" name="verify_Book_Search_Test" duration-ms="4070" started-at="2012-05-26T21:46:18Z" finished-at="2012-05-26T21:46:22Z">
+        </test-method> <!-- verify_Book_Search_Test -->
+        <test-method status="PASS" signature="verify_Initial_BookPage()[pri:0, instance:com.koolkart.pages.BookPage@1420c906]" name="verify_Initial_BookPage" duration-ms="36" started-at="2012-05-26T21:46:22Z" finished-at="2012-05-26T21:46:22Z">
+        </test-method> <!-- verify_Initial_BookPage -->
+        <test-method status="PASS" signature="verify_SortBy_on_BookPage()[pri:0, instance:com.koolkart.pages.BookPage@1420c906]" name="verify_SortBy_on_BookPage" duration-ms="24" started-at="2012-05-26T21:46:22Z" finished-at="2012-05-26T21:46:22Z">
+        </test-method> <!-- verify_SortBy_on_BookPage -->
+        <test-method status="PASS" signature="verify_most_popular_on_BookPage()[pri:0, instance:com.koolkart.pages.BookPage@1420c906]" name="verify_most_popular_on_BookPage" duration-ms="1726" started-at="2012-05-26T21:46:22Z" finished-at="2012-05-26T21:46:24Z">
+        </test-method> <!-- verify_most_popular_on_BookPage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.koolkart.pages.BookPage@1420c906]" name="afterTest" is-config="true" duration-ms="1636" started-at="2012-05-26T21:46:24Z" finished-at="2012-05-26T21:46:25Z">
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.koolkart.pages.BookPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
