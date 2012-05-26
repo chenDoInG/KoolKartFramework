@@ -14,7 +14,7 @@ This framework exploits both the capability of Selenium as well as sikuli-script
 be obtained by installing the Sikuli first and then copying the .jar from the installed folder path.
 Mail me if you face any issues.
 
-You can use Sikuli for all UI level validation.
+You can use Sikuli for all UI level validation. Use the Sikuli IDE to play with Sikuli.
 
 Thanks,
 Nishant Verma
