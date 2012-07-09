@@ -13,6 +13,8 @@ public class SikuliBasedTest {
 
 	Screen s;
 
+	// This test requires an image to be placed in a certain location for successful run.
+	
 	@Test
 	public void facebook_Login_Verification() throws InterruptedException {
 		try {

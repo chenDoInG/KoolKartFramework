@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import com.framework.driver.DriverHandler;
 
-public class FeedbackPage {
+public class FeedbackPageTest {
 
 	private DriverHandler driver = new DriverHandler();
 

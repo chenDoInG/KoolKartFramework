@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import com.framework.driver.DriverHandler;
 
-public class HomePage {
+public class HomePageTest {
 
 	private DriverHandler driver = new DriverHandler();
 
